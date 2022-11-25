@@ -1,4 +1,4 @@
-                                                  ### Hi there I'm Ekrem Güneş👋
+                                                  <h1> Hi there I'm Ekrem Güneş👋</h1>
 
 
 Here are some ideas to get you started:
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Ronaldo > Messi :)
 
-###Connect with me : 
+Connect with me : 
 [Linkedln](https://www.linkedin.com/in/ekrem-g%C3%BCne%C5%9F-221636227/y)
