@@ -1,7 +1,7 @@
 <br />
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Ozan</h1>
-<h4 align="center">Jr.Front-End Developer | Blogger | YouTuber | Computer Engineering Student</h4>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Ekrem</h1>
+<h4 align="center">Jr.Software Developer | Computer Programming Student</h4>
 
 - 🔭 I’m currently working on asp.net core ...
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ekremgunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardilozantekin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ekremgunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekremgunes" height="30" width="40" /></a>
 </p>
 
 <br />
