@@ -1,4 +1,3 @@
-<br />
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Ekrem</h1>
 <h5 align="center">Jr.Software Developer | Computer Programming Student</h5>
@@ -10,11 +9,6 @@
 - 👯 Look at my page ! <a href="http://gunesekrem.com">gunesekrem.com</a>  ...
 
 - 📫 How to reach me: <a href="mailto:gunesekremcom@gmail.com">gunesekremcom@gmail.com</a> ...
-
-
-- ⚡ Fun fact: Ronaldo > Messi :)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
