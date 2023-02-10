@@ -17,25 +17,6 @@
 
 <br />
 
-<details >
-<summary> 💡 Github Stats</summary>
-
-<p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ekremgunes&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=ekremgunes"/></p>
-
-</details>
-
-<details>
-<summary> 💻 Most Used Languages</summary>
-
-<p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekremgunes&layout=compact&theme=blue)](https://github.com/ekremgunes)
-
-</p>
-</details>
-
 <details>
       <summary> 💼 Languages and Tools</summary>
       <br>
