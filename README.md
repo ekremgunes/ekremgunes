@@ -4,5 +4,3 @@
 👯 Look at my page ! <a href="http://gunesekrem.com">gunesekrem.com</a>  ...
 <br>
 📧 My email adress <a mailto="gunesekremcom@gmail.com">gunesekremcom@gmail.com</a>
-
-https://expo.dev/accounts/ekrem.expo1/projects/souvenircountdownreminder/builds/064378bf-196a-4336-87c1-46ae7f835f17
