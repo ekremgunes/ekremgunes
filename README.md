@@ -8,5 +8,4 @@
 #### TOP PROJECT 
 ![](en_full.png)
 
-<small>[Visit details](https://gunoraapps.com.tr/souvenir/)</small>
 
