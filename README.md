@@ -5,7 +5,6 @@
 <br>
 📧 My email adress <a mailto="gunesekremcom@gmail.com">gunesekremcom@gmail.com</a>
 
-#### TOP PROJECT 
 ![](en_full.png)
 
 
