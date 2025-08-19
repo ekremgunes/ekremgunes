@@ -6,7 +6,7 @@
   My tech stack includes React Native,React,.NET Core, and a little bit of Unity.
 </p>
 
----
+--
 
 <p align="">
   <a href="https://www.linkedin.com/in/ekremgunes/" target="_blank">
@@ -17,8 +17,7 @@
   </a>
 </p>
 
----
-<br>
+--
 <!--![](en_full.png)-->
 
 <div style="display: flex; justify-content: center; align-items: center;
