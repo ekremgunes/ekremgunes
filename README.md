@@ -2,8 +2,6 @@
 
 <p align="">
   Building and leading with code. I'm a Co-Founder and Software Engineer at Misket Games.Also I've small courses in Udemy
-  <br>
-  My tech stack includes React Native,React,.NET Core, and a little bit of Unity.
 </p>
 
 --
