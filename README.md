@@ -24,7 +24,7 @@
 ">
     <img src="https://github.com/ekremgunes/BankAppUI/raw/master/appgifbank.gif" alt="Image 1" width="255" height="600" style="margin-right: 10px; object-fit:cover"/>
     <img src="https://github.com/ekremgunes/ElectricCarApp/raw/master/assets/github/appgif.gif" alt="Image 1" width="255px"  height="600" style="margin-right: 10px; object-fit:cover"/>
-    <img  src="https://github.com/user-attachments/assets/8d8805e8-54cc-44e7-be4c-1f7a09b12616"  width="212"  height="400" style="margin-right: 10px; object-fit:cover" />
+    <img  src="https://github.com/user-attachments/assets/8d8805e8-54cc-44e7-be4c-1f7a09b12616"  width="212"  height="500" style="margin-right: 10px; object-fit:cover" />
 </div>
 
 
